@@ -1,0 +1,30 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  color: white;
+}
+
+.container1 {
+  background-color: #1c1c1c;
+  max-width: 450px;
+}
+
+.logo-obt {
+  width: 200px;
+  height: 30px;
+}
+
+.btn {
+  background-color: transparent;
+  border-color: #ff4043;
+  color: #ff4043;
+}
+.btn:hover {
+  background-color: #ff4043;
+  border-color: #ff4043;
+}
+
+/*# sourceMappingURL=style.css.map */

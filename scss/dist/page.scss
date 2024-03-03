@@ -1,0 +1,28 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+body {
+  color: white;
+}
+.container1 {
+  background-color: $secondary-color;
+  max-width: 450px;
+}
+.logo-obt {
+  width: 200px;
+  height: 30px;
+}
+
+.btn {
+  background-color: transparent;
+  border-color: $primary-color;
+  color: $primary-color;
+  
+  &:hover {
+  background-color: $primary-color;
+  border-color: $primary-color;
+}
+}
+
+
